@@ -1,0 +1,654 @@
+id:20220118-164406
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:1
+seq_len:3
+loss:0.01379
+
+id:20220118-170312
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:1
+seq_len:1
+loss:0.00207
+
+id:20220118-172411
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:2
+seq_len:1
+loss:0.00065
+
+id:20220118-175452
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:3
+seq_len:1
+loss:0.02447
+
+id:20220118-180558
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:1
+seq_len:5
+loss:0.02361
+
+id:20220118-182818
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:2
+seq_len:5
+loss:0.0065
+
+id:20220118-190137
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:3
+seq_len:5
+loss:0.0246
+
+id:20220118-191227
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:1
+seq_len:10
+loss:0.02157
+
+id:20220118-193443
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:2
+seq_len:10
+loss:0.02467
+
+id:20220118-200809
+num_epochs:5000
+learning_rate:0.001
+hidden_size:1
+num_layers:3
+seq_len:10
+loss:0.02469
+
+id:20220118-201835
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:1
+seq_len:1
+loss:0.00065
+
+id:20220118-203957
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:2
+seq_len:1
+loss:0.00064
+
+id:20220118-211158
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:3
+seq_len:1
+loss:0.00064
+
+id:20220118-212334
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:1
+seq_len:5
+loss:0.0103
+
+id:20220118-214655
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:2
+seq_len:5
+loss:0.00926
+
+id:20220118-222219
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:3
+seq_len:5
+loss:0.00724
+
+id:20220118-223410
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:1
+seq_len:10
+loss:0.02466
+
+id:20220118-225817
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:2
+seq_len:10
+loss:0.01138
+
+id:20220118-233505
+num_epochs:5000
+learning_rate:0.001
+hidden_size:3
+num_layers:3
+seq_len:10
+loss:0.00985
+
+id:20220118-234537
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:1
+seq_len:1
+loss:0.0009
+
+id:20220119-000636
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:2
+seq_len:1
+loss:0.00064
+
+id:20220119-003739
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:3
+seq_len:1
+loss:0.00063
+
+id:20220119-004858
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:1
+seq_len:5
+loss:0.01033
+
+id:20220119-011149
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:2
+seq_len:5
+loss:0.00342
+
+id:20220119-014636
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:3
+seq_len:5
+loss:0.00327
+
+id:20220119-015818
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:1
+seq_len:10
+loss:0.0232
+
+id:20220119-022219
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:2
+seq_len:10
+loss:0.02224
+
+id:20220119-025836
+num_epochs:5000
+learning_rate:0.001
+hidden_size:5
+num_layers:3
+seq_len:10
+loss:0.02467
+
+id:20220119-030901
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:1
+seq_len:1
+loss:0.00066
+
+id:20220119-033001
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:2
+seq_len:1
+loss:0.00064
+
+id:20220119-040143
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:3
+seq_len:1
+loss:0.00063
+
+id:20220119-041310
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:1
+seq_len:5
+loss:0.02395
+
+id:20220119-043638
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:2
+seq_len:5
+loss:0.00208
+
+id:20220119-051332
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:3
+seq_len:5
+loss:0.00283
+
+id:20220119-052551
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:1
+seq_len:10
+loss:0.0216
+
+id:20220119-055047
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:2
+seq_len:10
+loss:0.02078
+
+id:20220119-063000
+num_epochs:5000
+learning_rate:0.001
+hidden_size:10
+num_layers:3
+seq_len:10
+loss:0.00942
+
+id:20220119-064034
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:1
+seq_len:1
+loss:0.00063
+
+id:20220119-070200
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:2
+seq_len:1
+loss:0.00057
+
+id:20220119-073422
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:3
+seq_len:1
+loss:0.00063
+
+id:20220119-074701
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:1
+seq_len:5
+loss:0.00488
+
+id:20220119-081217
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:2
+seq_len:5
+loss:0.00277
+
+id:20220119-084911
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:3
+seq_len:5
+loss:0.00276
+
+id:20220119-090207
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:1
+seq_len:10
+loss:0.02281
+
+id:20220119-092913
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:2
+seq_len:10
+loss:0.00948
+
+id:20220119-101002
+num_epochs:5000
+learning_rate:0.001
+hidden_size:20
+num_layers:3
+seq_len:10
+loss:0.00939
+id:		20220120-101205
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	1
+seq_len:		1
+loss:		0.00019
+id:		20220120-121323
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	2
+seq_len:		1
+loss:		0.00034
+id:		20220120-151644
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	3
+seq_len:		1
+loss:		0.00012
+id:		20220120-162015
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	1
+seq_len:		5
+loss:		0.00993
+id:		20220120-182827
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	2
+seq_len:		5
+loss:		0.00954
+id:		20220120-214142
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	3
+seq_len:		5
+loss:		0.00972
+id:		20220120-224712
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	1
+seq_len:		10
+loss:		0.05245
+id:		20220121-010513
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	2
+seq_len:		10
+loss:		0.08044
+id:		20220121-042057
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	1
+num_layers:	3
+seq_len:		10
+loss:		0.05328
+id:		20220121-052147
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	1
+seq_len:		1
+loss:		0.00016
+id:		20220121-072451
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	2
+seq_len:		1
+loss:		0.00013
+id:		20220121-103300
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	3
+seq_len:		1
+loss:		0.0002
+id:		20220121-114046
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	1
+seq_len:		5
+loss:		0.00699
+id:		20220121-135549
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	2
+seq_len:		5
+loss:		0.00851
+id:		20220121-172258
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	3
+seq_len:		5
+loss:		0.008
+id:		20220121-183217
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	1
+seq_len:		10
+loss:		0.02273
+id:		20220121-205110
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	2
+seq_len:		10
+loss:		0.02336
+id:		20220122-001932
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	3
+num_layers:	3
+seq_len:		10
+loss:		0.01478
+id:		20220122-012046
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	1
+seq_len:		1
+loss:		0.00014
+id:		20220122-032405
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	2
+seq_len:		1
+loss:		9e-05
+id:		20220122-062957
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	3
+seq_len:		1
+loss:		9e-05
+id:		20220122-073911
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	1
+seq_len:		5
+loss:		0.00857
+id:		20220122-095641
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	2
+seq_len:		5
+loss:		0.00269
+id:		20220122-132617
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	3
+seq_len:		5
+loss:		0.00418
+id:		20220122-143759
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	1
+seq_len:		10
+loss:		0.02069
+id:		20220122-170436
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	2
+seq_len:		10
+loss:		0.00534
+id:		20220122-204058
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	5
+num_layers:	3
+seq_len:		10
+loss:		0.02211
+id:		20220122-214318
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	1
+seq_len:		1
+loss:		0.00011
+id:		20220122-234900
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	2
+seq_len:		1
+loss:		8e-05
+id:		20220123-025839
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	3
+seq_len:		1
+loss:		8e-05
+id:		20220123-041229
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	1
+seq_len:		5
+loss:		0.00585
+id:		20220123-064006
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	2
+seq_len:		5
+loss:		0.00481
+id:		20220123-101929
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	3
+seq_len:		5
+loss:		0.00584
+id:		20220123-113833
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	1
+seq_len:		10
+loss:		0.0296
+id:		20220123-141836
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	2
+seq_len:		10
+loss:		0.02681
+id:		20220123-183307
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	10
+num_layers:	3
+seq_len:		10
+loss:		0.01371
+id:		20220123-193609
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	20
+num_layers:	1
+seq_len:		1
+loss:		9e-05
+id:		20220123-215502
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	20
+num_layers:	2
+seq_len:		1
+loss:		9e-05
+id:		20220124-011726
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	20
+num_layers:	3
+seq_len:		1
+loss:		0.0001
+id:		20220124-023510
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	20
+num_layers:	1
+seq_len:		5
+loss:		0.00885
+id:		20220124-051940
+num_epochs:	5000
+learning_rate:	0.001
+hidden_size:	20
+num_layers:	2
+seq_len:		5
+loss:		0.0084
