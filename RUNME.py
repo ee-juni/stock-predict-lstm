@@ -9,7 +9,7 @@ def createFolder(directory):
  
 createFolder('data')
 createFolder('data/kospi')
-createFolder('data/kospi')
+createFolder('data/nasdaq')
 createFolder('performance')
 
 print("Directory creation successful")
